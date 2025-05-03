@@ -1,3 +1,3 @@
 # ApplicationStuff
 
-[View the PDF](./OO - Exercise.pdf)
+[View the PDF](./Exercise.pdf)
