@@ -18,7 +18,7 @@ public class Car extends AbstractVehicle {
         return carTire;
     }
 
-    public void setCarTire(AbstractCarTire carTire) {
+    public void changeTire(AbstractCarTire carTire) {
         this.carTire = carTire;
     }
 
